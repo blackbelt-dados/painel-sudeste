@@ -1,0 +1,50 @@
+{
+  "duplicates": 0,
+  "excluded_missing_coordinate_records": 0,
+  "excluded_records": 44239,
+  "excluded_stations": 387,
+  "geographic_scope": {
+    "boundary_file": "data/reference/ibge/sudeste_ufs_ibge_2025.json.gz",
+    "boundary_reference_system": "SIRGAS 2000 - latitude/longitude",
+    "boundary_sha256": "5c894d9c062a8b5ef534b64d9edf2aedb58a88dc6df300238b09f4e68dd24bbf",
+    "boundary_source": "IBGE - Malhas Territoriais 2025",
+    "records_by_state": {
+      "ES": 1165,
+      "MG": 8071,
+      "RJ": 3352,
+      "SP": 4615
+    },
+    "region": "Sudeste",
+    "states": [
+      "ES",
+      "MG",
+      "RJ",
+      "SP"
+    ],
+    "stations_by_state": {
+      "ES": 9,
+      "MG": 63,
+      "RJ": 28,
+      "SP": 43
+    }
+  },
+  "gold_built_at_utc": "2026-11-17T00:05:41.122275+00:00",
+  "observation_date_utc": "2026-11-15",
+  "outputs": [
+    "inmet_wis2_station_variable_latest.csv",
+    "inmet_wis2_variable_summary_latest.csv",
+    "inmet_wis2_stations_latest.csv"
+  ],
+  "quality": "passed",
+  "records": 17203,
+  "source_collected_at_utc": "2026-11-16T20:18:24.558164+00:00",
+  "source_records": 61442,
+  "source_sha256": "91112da60525a16b085ea1d0f2490b7f3a176292ab46d96d40d99897a7b025dd",
+  "source_sha256_verified": "91112da60525a16b085ea1d0f2490b7f3a176292ab46d96d40d99897a7b025dd",
+  "source_stations": 530,
+  "station_variable_rows": 786,
+  "stations": 143,
+  "status": "gold_ready",
+  "synced_at_utc": "2026-11-16T20:25:42.922273+00:00",
+  "variables": 6
+}

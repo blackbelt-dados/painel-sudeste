@@ -1,0 +1,7 @@
+observation_date,variable,unit,description,observations,valid_values,stations,min_value,mean_value,max_value
+2026-11-15,air_temperature,Celsius,,3184,3184,143,12.5,23.6005,34.5
+2026-11-15,maximum_wind_gust_speed,m/s,,2739,2739,113,0.0,4.5567,27.9
+2026-11-15,pressure_reduced_to_mean_sea_level,hPa,,2761,2761,134,1002.8,1011.2191,1020.0
+2026-11-15,relative_humidity,%,,2969,2969,139,31.0,77.0148,100.0
+2026-11-15,total_precipitation_or_total_water_equivalent,kg m-2,,2687,2687,128,-0.1,0.2984,41.4
+2026-11-15,wind_speed,m/s,,2863,2863,129,0.0,1.6418,9.9

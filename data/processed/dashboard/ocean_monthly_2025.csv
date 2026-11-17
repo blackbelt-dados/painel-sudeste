@@ -1,0 +1,13 @@
+date,year,month,sst_nino34_c,sst_anomaly_nino34_c,enso_context
+2025-01-01,2025,1,25.8,-0.74,La Niña (contexto)
+2025-02-01,2025,2,26.32,-0.43,Neutro (contexto)
+2025-03-01,2025,3,27.29,0.01,Neutro (contexto)
+2025-04-01,2025,4,27.68,-0.14,Neutro (contexto)
+2025-05-01,2025,5,27.8,-0.13,Neutro (contexto)
+2025-06-01,2025,6,27.66,-0.07,Neutro (contexto)
+2025-07-01,2025,7,27.15,-0.14,Neutro (contexto)
+2025-08-01,2025,8,26.49,-0.36,Neutro (contexto)
+2025-09-01,2025,9,26.25,-0.47,Neutro (contexto)
+2025-10-01,2025,10,26.22,-0.5,La Niña (contexto)
+2025-11-01,2025,11,26.01,-0.7,La Niña (contexto)
+2025-12-01,2025,12,25.93,-0.67,La Niña (contexto)
